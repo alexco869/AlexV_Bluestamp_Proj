@@ -87,4 +87,4 @@ To watch the BSE tutorial on how to create a portfolio, click here.
 
 My starter project was a simple circuit with the input device as a potentiometer and the output device as a servo. I wired the potentiometer to the power and ground of the arduino board while the servo's power came from batteries. I wired the potentiometer to an analog input on the arduino, which converts the analog (0 to 1023) input into a value from 0 to 180. This value is relayed to the servo through a wire. 
 
-![Schematics](servo_circuit_knob-pot.png)
+![Schematics](assets/css/servo_circuit_knob-pot.png)
