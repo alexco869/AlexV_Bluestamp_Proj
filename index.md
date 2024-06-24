@@ -10,8 +10,8 @@
 | Alex V. | Saratoga High School | Electrical and Computer Engineering | Incoming Senior
 
 ![Headstone Image](assets/css/Alex_V.heic)
-<!--- 
-# Final Milestone
+
+<!--- # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -21,10 +21,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- What you hope to learn in the future after everything you've learned at BSE-->
 
-
--->
 # Second Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fgWmVoJPao0?si=CvSVnkKDithFHTtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -36,9 +34,9 @@ My second milestone involved connecting to my hexapod with my computer and calib
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CjzWhx63Bdg?si=_pPeSyFteW1XCkPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my first milestone, I assembled my hexapod. This includes acrylic parts, a control board, servos, and a battery. I encountered a lot of challenges while completiong this mileston. Attaching the servo arms to the acrylic parts was tedious and difficult. I often had to redo parts of the building process that I didn't realize I had gotten wrong. The wiring was also a long process, since I spent a considerable amount of time wiring the servos neatly only to later have to rearrange the connections. Next I will connect the hexapod to my computer using the Processing app and calibrate the hexapod. I will probably have to reattach some servos unless the testing goes right the first time.
-<!---
 
-# Schematics 
+
+<!---# Schematics 
 
 
 # Code
@@ -55,9 +53,9 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-```
+```-->
 
--->
+
 # Bill of Materials
 
 | **Part** | **Note** | **Price** | **Link** |
@@ -66,17 +64,17 @@ void loop() {
 | WLAN Module | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
-<!---
 
-# Other Resources/Examples
+
+<!---# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+To watch the BSE tutorial on how to create a portfolio, click here.-->
 
--->
+
 
 # Starter Project
 
