@@ -29,7 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fgWmVoJPao0?si=CvSVnkKDithFHTtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-My second milestone involved connecting to my hexapod with my computer and calibrating the servos.
+My second milestone involved connecting to my hexapod with my computer and calibrating the servos. I had to place the hexapod on top of a calibration diagram showing where the legs should be in neutral position. The two front legs of my hexapod were too far forward, so I had to reattach them by unscrewing and screwing back on the top servos at a different angle.
 
 # First Milestone
 
