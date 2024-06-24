@@ -82,7 +82,7 @@ To watch the BSE tutorial on how to create a portfolio, click here.
 
 ![Schematics](assets/css/servo_circuit_knob-pot.png)
 
-<iframe> width="560" height="315" src="https://www.youtube.com/embed/NnEI5BXkU1Q?si=BD2qRiPSHRPxkvwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe> width="560" height="315" src="https://www.youtube.com/embed/NnEI5BXkU1Q?si=BD2qRiPSHRPxkvwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My starter project was a simple circuit with the input device as a potentiometer and the output device as a servo. I wired the potentiometer to the power and ground of the arduino board while the servo's power came from batteries. I wired the potentiometer to an analog input on the arduino, which converts the analog (0 to 1023) input into a value from 0 to 180. This value is relayed to the servo through a wire. 
 
