@@ -9,8 +9,7 @@
 |:--:|:--:|:--:|:--:|
 | Alex V. | Saratoga High School | Electrical and Computer Engineering | Incoming Senior
 
-![Headstone Image](assets/css/Alex_V.heic)
-<img src="assets/css/Alex_V.heic" alt="Headstone Image" width="100" height="100">
+<img src="assets/css/Alex_V.heic" alt="Headstone Image" width="200" height="200">
 
 <!--- # Final Milestone
 
