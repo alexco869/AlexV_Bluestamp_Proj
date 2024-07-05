@@ -27,11 +27,13 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kW4szmZXZyE?si=4xAk0ti6wxZ0jL2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+For my third milestone, I built the remote controller and connected it to the hexapod. Building the controller was simple and involved screwing an Arduino board with a control shield onto a base, onto which I screwed on a battery case. This holds a 9V battery that powers the controller Arduino. I then put WLAN modules on the hexapod and the controller, which were linked and allowed the controller to wirelessly control the hexapod. Controlling the hexapod using the remote controller is much easier than using the Processing sketch. The hexapod responds much more quickly to inputs and works more reliably. The controller can be put into several different "modes" by flipping three switches on the controller board into different combinations. For example, there is a mode where the joystick only controls the direction in which the hexapod moves, while another allows the joystick to turn the hexapod as well as moveing it.
+
 # Second Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fgWmVoJPao0?si=CvSVnkKDithFHTtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-My second milestone involved connecting to my hexapod with my computer and calibrating the servos. I had to place the hexapod on top of a calibration diagram showing where the legs should be in neutral position. The two front legs of my hexapod were too far forward, so I had to reattach them by unscrewing and screwing back on the top servos at a different angle.
+My second milestone involved connecting to my hexapod with my computer and calibrating the servos. I had to place the hexapod on top of a calibration diagram showing where the legs should be in neutral position. The two front legs of my hexapod were too far forward, so I had to reattach them by unscrewing and screwing back on the top servos at a different angle. 
 
 # First Milestone
 
