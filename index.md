@@ -8,21 +8,12 @@
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Alex V. | Saratoga High School | Electrical and Computer Engineering | Incoming Senior
-
+        
 <img src="assets/css/Alex_V-2.png" alt="Headstone Image" width="252" height="336">
 
--->
 # Final Milestone
 
-For my final milestone, I made my modifications, which are an LED matrix that can display text and a case for the LED matrix and battery. First I had to figure out how to wire an LED matrix to an Arduino board. I researched it for a while and found a lot of different ways, but I eventually figured it out. On top of this being a significant obstacle, I also learned a lot about Arduino boards. Next, I found a Arduino library made for the purpose of controlling the display on an LED matrix. This facilitated my writing code.
-
-
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+For my final milestone, I made my modifications, which are an LED matrix that can display text and a case for the LED matrix and battery. First I had to figure out how to wire an LED matrix to an Arduino board. I researched it for a while and found a lot of different ways, but I eventually figured it out. On top of this being a significant obstacle, I also learned a lot about Arduino boards. Next, I found a Arduino library made for the purpose of controlling the display on an LED matrix. I wrote the code to display a message on the LED matrix. I also modeled a case for the battery and LED matrix in a CAD software called Onshape.
 
 # Third Milestone
 
@@ -68,19 +59,8 @@ void loop() {
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Mega | Hexapod control board | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| WLAN Module | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| LED Matrix | What the item is used for | $Price | <a href="https://www.amazon.com/HiLetgo-MAX7219-Arduino-Microcontroller-Display/dp/B07FFV537V/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.nofkb4mwB3j2Tm9ZXWYhznUbZGu-46XJuMQV6ls5CzwAvjG7qh7AjAzqzG27nZXdY0CMD18oOeGzB_411OGE6z2DP6-t5c_xbryUmnIVn65tVAYc9GtH02FmISQI6RoFWZ5S8IKJ986Da1U_l-8TB4bCAjRYFX_N4EDlq1UrYHg4Bfl2wSsWtW24NskKURbgIx6wEZXmL2XCT6TST25LwF8efCUBFoCSjmkwneGwNOU.Insk2UDsSt9ja4_-7SP5Q8PF083jeRC3Nx4mH-JuS8w&dib_tag=se&keywords=max7219&qid=1721328626&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-
-
-
-<!---# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.-->
-
 
 
 # Starter Project
@@ -90,4 +70,3 @@ To watch the BSE tutorial on how to create a portfolio, click here.-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NnEI5BXkU1Q?si=BD2qRiPSHRPxkvwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My starter project was a simple circuit with the input device as a potentiometer and the output device as a servo. I wired the potentiometer to the power and ground of the arduino board while the servo's power came from batteries. I wired the potentiometer to an analog input on the arduino, which converts the analog (0 to 1023) input into a value from 0 to 180. This value is relayed to the servo through a wire. 
-
