@@ -14,7 +14,7 @@
 -->
 # Final Milestone
 
-For my final milestone, I made my modifications, which are an LED matrix that can display text and a case for the LED matrix and battery. First I had to figure out how to wire an LED matrix to an Arduino board. I researched it for a while and found a lot of different ways, but I eventually figured it out. On top of this being a significant obstacle, I also learned a lot about Arduino boards. Next, I found a Arduino library made for the purpose of controllin
+For my final milestone, I made my modifications, which are an LED matrix that can display text and a case for the LED matrix and battery. First I had to figure out how to wire an LED matrix to an Arduino board. I researched it for a while and found a lot of different ways, but I eventually figured it out. On top of this being a significant obstacle, I also learned a lot about Arduino boards. Next, I found a Arduino library made for the purpose of controlling the display on an LED matrix. This facilitated my writing code.
 
 
 
