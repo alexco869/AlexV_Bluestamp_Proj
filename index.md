@@ -58,7 +58,7 @@ void loop() {
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Mega | Hexapod control board | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Hexapod Kit | N/A | $126.99 | <a href="https://store.freenove.com/products/fnk0031"> Link </a> |
 | LED Matrix | What the item is used for | $Price | <a href="https://www.amazon.com/HiLetgo-MAX7219-Arduino-Microcontroller-Display/dp/B07FFV537V/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.nofkb4mwB3j2Tm9ZXWYhznUbZGu-46XJuMQV6ls5CzwAvjG7qh7AjAzqzG27nZXdY0CMD18oOeGzB_411OGE6z2DP6-t5c_xbryUmnIVn65tVAYc9GtH02FmISQI6RoFWZ5S8IKJ986Da1U_l-8TB4bCAjRYFX_N4EDlq1UrYHg4Bfl2wSsWtW24NskKURbgIx6wEZXmL2XCT6TST25LwF8efCUBFoCSjmkwneGwNOU.Insk2UDsSt9ja4_-7SP5Q8PF083jeRC3Nx4mH-JuS8w&dib_tag=se&keywords=max7219&qid=1721328626&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
