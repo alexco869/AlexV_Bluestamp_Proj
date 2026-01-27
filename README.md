@@ -1,1 +1,1 @@
-This repository is a template for documenting BlueStamp Engineering projects. Users should replace this text with a description of what their project is and what their repository holds. 
+My project is the hexapod robot. I modified it with an LED display that can be programmed to display anything and a 3d case to hold the battey, wires, and LED strip.
